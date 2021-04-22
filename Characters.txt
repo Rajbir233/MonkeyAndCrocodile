@@ -3,3 +3,5 @@
 Monkey
 Crocodile
 Cartoon
+Lion
+Horse
