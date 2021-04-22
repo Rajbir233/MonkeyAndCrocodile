@@ -5,3 +5,6 @@ Crocodile
 Cartoon
 Lion
 Horse
+Elephant
+Daisy
+Butterfly
